@@ -26,7 +26,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. 
 1. It's a bar chart and it shows Top 10 countries by COVID-19 cases
-    https://vizhub.com/KangjianWu/3e6b82a776c84ee8a95003d5b943dbf7
+   https://vizhub.com/KangjianWu/3e6b82a776c84ee8a95003d5b943dbf7
 2. It's a simple scatter plot and it shows Covid cases and deaths worldWide
     https://vizhub.com/KangjianWu/ea8b5ebe25f34b969bde75ed3e7d8ab7
 3. It's a line chart and it shows COVID-19 total cases in the world's most populated countries
