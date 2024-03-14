@@ -24,13 +24,16 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. 
+1. It's a bar chart and it shows Top 10 countries by COVID-19 cases
+    https://vizhub.com/KangjianWu/3e6b82a776c84ee8a95003d5b943dbf7
+2. It's a simple scatter plot and it shows Covid cases and deaths worldWide
+    https://vizhub.com/KangjianWu/ea8b5ebe25f34b969bde75ed3e7d8ab7
+3. It's a line chart and it shows COVID-19 total cases in the world's most populated countries
+    https://vizhub.com/KangjianWu/3bfa2074b5b2425696aca9637b9def54
 
 
-## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+1. Finish a world map with some covid-19 data, make a simple draft.
