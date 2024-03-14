@@ -35,5 +35,9 @@ I’ve created a proof of concept visualization of this data.
 
 
 ## Milestones
+Week1: Set up GitHub repository adn clean the dataset.
+Week2: Finish a world map with some covid-19 data, make a simple draft.
+Week3: Design a bar gragh to show the number of cases or deaths per million people with COVID-19.
+Week4: Gather two visualization in one, and adjust the layout.
+Week5: Design a viz responsive and improve user interface.
 
-1. Finish a world map with some covid-19 data, make a simple draft.
