@@ -25,7 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. 
-1. It's a bar chart and it shows Top 10 countries by COVID-19 cases
+1. It's a bar chart and it shows Top 10 countries by COVID-19 cases                   
    https://vizhub.com/KangjianWu/3e6b82a776c84ee8a95003d5b943dbf7
 2. It's a simple scatter plot and it shows Covid cases and deaths worldWide
     https://vizhub.com/KangjianWu/ea8b5ebe25f34b969bde75ed3e7d8ab7
@@ -35,9 +35,9 @@ I’ve created a proof of concept visualization of this data.
 
 
 ## Milestones
-Week1: Set up GitHub repository adn clean the dataset.
-Week2: Finish a world map with some covid-19 data, make a simple draft.
-Week3: Design a bar gragh to show the number of cases or deaths per million people with COVID-19.
-Week4: Gather two visualization in one, and adjust the layout.
-Week5: Design a viz responsive and improve user interface.
+Week1: Set up GitHub repository adn clean the dataset.                                                                                                              
+Week2: Finish a world map with some covid-19 data, make a simple draft.                                                         
+Week3: Design a bar gragh to show the number of cases or deaths per million people with COVID-19.                             
+Week4: Gather two visualization in one, and adjust the layout.                            
+Week5: Design a viz responsive and improve user interface.                              
 
