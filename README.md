@@ -14,6 +14,13 @@ The following tasks and questions will drive the visualization and interaction d
  * Which data need extra attention and which can be appropriately ignored?
  * How to integrate these different forms of visualization (bar charts, histograms and maps) into an interactive dashboard?
 
+## Answer to These Questions
+
+ * Use a world map to show data between different countries.
+ * Different data relationships are shown through different colors for each country on the map as well as a legend
+ * There are some countries for which data are not available, and others whose names in the dataset do not match the names on the map and require additional attention.
+ * A bar chart has been added to the map, so that when the mouse moves over a country, the corresponding bar chart will appear, showing some specific data.
+
 ## Sketches
 1.to show the relationship between different countries on COVID-19 data, the most efficient and intuitive way is to use a world map to show data between different countries.
 ![COVID-19 map](https://github.com/KangjianWu/dataviz-project-template-proposal/assets/124107340/5d8fbab6-2cec-4bbe-a4ee-1282f2ec0816)
@@ -39,5 +46,10 @@ Week1: Set up GitHub repository adn clean the dataset.
 Week2: Finish a world map with some covid-19 data, make a simple draft.                                                         
 Week3: Design a bar gragh to show the number of cases or deaths per million people with COVID-19.                             
 Week4: Gather two visualization in one, and adjust the layout.                            
-Week5: Design a viz responsive and improve user interface.                              
+Week5: Design a viz responsive and improve user interface.     
+
+## Left Work
+1: Add more interactivity, such as panning and zooming                                                                                                             
+2: Changed some text and map colors to improve contrast                                                         
+3: There is some data that doesn't show up well, find out what's wrong and fix it!                          
 
