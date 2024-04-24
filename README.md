@@ -1,4 +1,6 @@
 # Data Visualization Project
+Explore the interactive visualization on VizHub:https://vizhub.com/KangjianWu/e8be00574e0c4136b1398d7b4b9b26f2
+
 
 ## Project Overview
 This project presents an interactive dashboard that visualizes COVID-19 data across different countries. The goal was to elucidate relationships between countries in terms of COVID-19 impact using an integrative approach combining various types of visualizations like maps, bar charts, and line charts.
