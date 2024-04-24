@@ -1,8 +1,11 @@
 # Data Visualization Project
 
-## Data
+## Project Overview
+This project presents an interactive dashboard that visualizes COVID-19 data across different countries. The goal was to elucidate relationships between countries in terms of COVID-19 impact using an integrative approach combining various types of visualizations like maps, bar charts, and line charts.
 
-The data I propose to visualize for my project is https://gist.github.com/KangjianWu/db06675bba6753a66a7dcb861d37dbf7
+
+## Data Source
+The dataset used for this visualization project is sourced from a publicly available GitHub gist, which includes COVID-19 cases and deaths data across multiple countries://gist.github.com/KangjianWu/db06675bba6753a66a7dcb861d37dbf7
 
 
 ## Questions & Tasks
