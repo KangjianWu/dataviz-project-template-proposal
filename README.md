@@ -25,6 +25,7 @@ Achieved Goals
 Interactive Elements
  * Enhanced user interaction through features like zooming and panning on the map.
  * Dynamic display of data through hover-over effects, allowing for deeper exploration of specific data points.
+![image](https://github.com/KangjianWu/dataviz-project-template-proposal/assets/124107340/bcbbdd0c-3bbd-4a2c-966a-9f7e0545432d)
 
 
 ## Prototypes
