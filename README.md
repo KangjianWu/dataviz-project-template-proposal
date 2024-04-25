@@ -7,7 +7,8 @@ This project presents an interactive dashboard that visualizes COVID-19 data acr
 
 
 ## Data Source
-The dataset used for this visualization project is sourced from a publicly available GitHub gist, which includes COVID-19 cases and deaths data across multiple countries://gist.github.com/KangjianWu/db06675bba6753a66a7dcb861d37dbf7
+The dataset used for this visualization project is sourced from a publicly available GitHub gist, which includes COVID-19 cases and deaths data across multiple countries:
+https//gist.github.com/KangjianWu/db06675bba6753a66a7dcb861d37dbf7
 
 
 ## Visualizations and Interactions
