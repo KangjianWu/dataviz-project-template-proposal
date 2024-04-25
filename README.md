@@ -16,7 +16,6 @@ https://gist.github.com/KangjianWu/db06675bba6753a66a7dcb861d37dbf7
 Key Features
  * World Map: An interactive map showing COVID-19 impact data, with countries colored differently based on their statistics to depict relative impact levels.
  * Bar Charts: Interactive bar charts appear when users hover over a country, displaying detailed statistics such as cases or deaths per million people.
- * Line Chart: Demonstrates trends in COVID-19 cases over time in the world's most populated countries.
 
 Achieved Goals
  * Relationship Visualization: The world map uses color coding effectively to display the relationship between different countries' COVID-19 data.
